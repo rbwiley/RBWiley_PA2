@@ -1,4 +1,5 @@
 ## cachematrix.R
+##
 ## rbwiley
 ## 2015/01/23  Created; rbw;  ver  1.0
 ## yyyy/mm/dd Revised: ...
